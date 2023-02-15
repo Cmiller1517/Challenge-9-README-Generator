@@ -1,0 +1,22 @@
+{
+  "name": "challenge-6-nodejs",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cmiller1517/Challenge-6-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cmiller1517/Challenge-6-NodeJS/issues"
+  },
+  "homepage": "https://github.com/Cmiller1517/Challenge-6-NodeJS#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
